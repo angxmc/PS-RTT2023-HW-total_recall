@@ -10,5 +10,8 @@ This is NO GOOD: for(i = 0; i < 100; i++)
  */
 for (let countdown = 0; countdown <= 10; countdown++) {
     console.log(countdown);
-    
 }
+for (let tenFourHundred = 10; tenFourHundred <= 400; tenFourHundred++) {
+    console.log(tenFourHundred);
+}
+
